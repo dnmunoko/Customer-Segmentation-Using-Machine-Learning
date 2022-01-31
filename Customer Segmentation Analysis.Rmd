@@ -1,6 +1,6 @@
 ---
 title: "Customer Segmentation Using Machine Learning"
-author: "Dory Munoko"
+author: "Dorcas Munoko"
 date: "12/22/2021"
 output: html_document
 ---
